@@ -27,7 +27,7 @@ Vehicle Inspection Pro is a mobile application designed to assist vehicle inspec
 
 - Flutter (Dart)
 - SyncFusion
-- Camera API (for image capture)
+- Camera and Gallery Permission
 - PDF generation libraries
 
 ## How to Use
